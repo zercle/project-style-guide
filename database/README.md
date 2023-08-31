@@ -21,3 +21,6 @@ Use [ScyllaDB](https://github.com/scylladb/scylladb) instead of Cassandra
 
 ## Multi Purpose database
 [SurrealDB](https://github.com/surrealdb/surrealdb) can done almost anything that we want from database systems
+
+## In-App database
+[SQLite Shared-Cache Mode](https://www.sqlite.org/sharedcache.html) for in app database
