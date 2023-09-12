@@ -8,7 +8,7 @@ Do not AUTO_INCREMENT use sortable unique IDs instead
 [UUIDv7](https://github.com/topics/uuidv7)
 
 ## Mysql/MariaDB
-Must follow [TiDB Limitations](https://docs.pingcap.com/tidb/stable/tidb-limitations) due to large scale system should use TiDB cluster
+Must follow [Unsafe Statements for Statement-based Replication](https://mariadb.com/kb/en/unsafe-statements-for-statement-based-replication/) and [TiDB Limitations](https://docs.pingcap.com/tidb/stable/tidb-limitations) due to large scale system should use TiDB cluster
 
 ## Redis
 Use [DragonflyDB](https://github.com/dragonflydb/dragonfly) instead of Redis
